@@ -1,0 +1,29 @@
+{
+  "name": "npm-frontend-boilerplate",
+  "version": "1.0.0",
+  "description": "Simple boilerplate for Email Development",
+  "main": "gulp.js",
+  "dependencies": {
+    "gulp": "^3.9.0"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.11.1",
+    "gulp-file": "^0.3.0",
+    "gulp-file-include": "^0.5.1",
+    "gulp-html-prettify": "0.0.1",
+    "gulp-rename": "^1.2.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timanishere/frontend-boilerplate.git"
+  },
+  "author": "Tim Anishere",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/timanishere/frontend-boilerplate/issues"
+  },
+  "homepage": "https://github.com/timanishere/frontend-boilerplate#readme"
+}
